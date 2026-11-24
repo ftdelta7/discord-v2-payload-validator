@@ -1,0 +1,14 @@
+{
+  "name": "discord-v2-payload-validator",
+  "version": "1.0.0",
+  "description": "Validate Discord Components V2 message layouts before sending.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "bin": { "v2-validate": "bin/cli.js" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/index.js && node --check src/validator.js && node --check bin/cli.js"
+  },
+  "engines": { "node": ">=18" }
+}
