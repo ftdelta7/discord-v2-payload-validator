@@ -94,3 +94,8 @@ npm run check
 ```
 
 Released under the [MIT license](LICENSE).
+
+## Disclaimer
+
+Created for the developer community. Discord and all related product names, API specifications, and trademarks belong to their respective owners.
+
